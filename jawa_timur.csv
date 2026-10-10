@@ -1,0 +1,39 @@
+nama,latitude,longitude,layer,tipe,provinsi,keterangan
+Kabupaten Pacitan,-8.2046,111.0877,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Ponorogo,-7.8711,111.4619,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Trenggalek,-8.05,111.7167,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Tulungagung,-8.0658,111.9014,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Blitar,-8.1333,112.2167,Jawa Timur,Kabupaten,Jawa Timur,Pusat Kanigoro
+Kabupaten Kediri,-7.7553,112.0714,Jawa Timur,Kabupaten,Jawa Timur,Pusat Ngasem/Pare
+Kabupaten Malang,-8.1333,112.5667,Jawa Timur,Kabupaten,Jawa Timur,Pusat Kepanjen
+Kabupaten Lumajang,-8.1333,113.2167,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Jember,-8.1724,113.7003,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Banyuwangi,-8.2186,114.3669,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Bondowoso,-7.9142,113.8214,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Situbondo,-7.7061,114.0044,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Probolinggo,-7.7717,113.3556,Jawa Timur,Kabupaten,Jawa Timur,Pusat Kraksaan
+Kabupaten Pasuruan,-7.5967,112.7833,Jawa Timur,Kabupaten,Jawa Timur,ERROR ANOMALI: Data mentah di Brebes/Cirebon! Diperbaiki ke Bangil/Pasuruan
+Kabupaten Sidoarjo,-7.4478,112.7183,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Mojokerto,-7.55,112.5167,Jawa Timur,Kabupaten,Jawa Timur,Pusat Mojosari
+Kabupaten Jombang,-7.5458,112.2331,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Nganjuk,-7.6053,111.9036,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Madiun,-7.5467,111.66,Jawa Timur,Kabupaten,Jawa Timur,Pusat Caruban
+Kabupaten Magetan,-7.6539,111.3283,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Ngawi,-7.4042,111.4456,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Bojonegoro,-7.1502,111.8818,Jawa Timur,Kabupaten,Jawa Timur,ERROR ANOMALI: Data mentah di Sulawesi Utara! Diperbaiki ke Bojonegoro Jatim
+Kabupaten Tuban,-6.8972,112.0649,Jawa Timur,Kabupaten,Jawa Timur,ERROR ANOMALI: Data mentah di Tuban Bali! Diperbaiki ke Tuban Pantura Jatim
+Kabupaten Lamongan,-7.1218,112.4158,Jawa Timur,Kabupaten,Jawa Timur,ERROR ANOMALI: Data mentah di Purbalingga Jateng! Diperbaiki ke Lamongan Jatim
+Kabupaten Gresik,-7.1567,112.6555,Jawa Timur,Kabupaten,Jawa Timur,Valid
+Kabupaten Bangkalan,-7.0307,112.745,Jawa Timur,Kabupaten,Jawa Timur,Valid Madura
+Kabupaten Sampang,-7.0503,113.2422,Jawa Timur,Kabupaten,Jawa Timur,ERROR ANOMALI: Data mentah di Banyumas Jateng! Diperbaiki ke Sampang Madura
+Kabupaten Pamekasan,-7.1608,113.4833,Jawa Timur,Kabupaten,Jawa Timur,Valid Madura
+Kabupaten Sumenep,-7.0167,113.8667,Jawa Timur,Kabupaten,Jawa Timur,Valid Madura
+Kota Kediri,-7.8169,112.0114,Jawa Timur,Kota,Jawa Timur,Valid
+Kota Blitar,-8.0983,112.1681,Jawa Timur,Kota,Jawa Timur,Alun-Alun Blitar
+Kota Malang,-7.9786,112.6317,Jawa Timur,Kota,Jawa Timur,Alun-Alun Tugu Malang
+Kota Probolinggo,-7.7547,113.2158,Jawa Timur,Kota,Jawa Timur,Valid
+Kota Pasuruan,-7.6449,112.9033,Jawa Timur,Kota,Jawa Timur,Valid
+Kota Mojokerto,-7.4722,112.4336,Jawa Timur,Kota,Jawa Timur,Valid
+Kota Madiun,-7.6297,111.5137,Jawa Timur,Kota,Jawa Timur,Valid
+Kota Surabaya,-7.2575,112.7521,Jawa Timur,Kota,Jawa Timur,Balaikota Surabaya
+Kota Batu,-7.8711,112.527,Jawa Timur,Kota,Jawa Timur,Alun-Alun Kota Batu
